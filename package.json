@@ -1,0 +1,17 @@
+{
+    "name": "daily-quotes-api",
+    "version": "1.0.0",
+    "description": "A daily quotes app with Node.js and Express.js",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "datetan": "^1.0.3",
+        "express": "^4.18.2",
+        "google-translate-api-x": "^10.7.1"
+    },
+    "keywords": [],
+    "author": "Tanese",
+    "license": "ISC"
+}

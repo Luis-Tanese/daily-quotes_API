@@ -1,0 +1,899 @@
+[
+    {
+        "quote": "The best way to predict the future is to invent it.",
+        "author": "Alan Kay"
+    },
+    {
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon"
+    },
+    { "quote": "Do or do not. There is no try.", "author": "Yoda" },
+    {
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "Happiness is not something ready-made. It comes from your own actions.",
+        "author": "Dalai Lama"
+    },
+    {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+        "author": "James Baldwin"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison"
+    },
+    {
+        "quote": "If you want to lift yourself up, lift up someone else.",
+        "author": "Booker T. Washington"
+    },
+    {
+        "quote": "Whether you think you can or you think you can’t, you’re right.",
+        "author": "Henry Ford"
+    },
+    {
+        "quote": "Strive not to be a success, but rather to be of value.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "Act as if what you do makes a difference. It does.",
+        "author": "William James"
+    },
+    {
+        "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "quote": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "The harder the conflict, the greater the triumph.",
+        "author": "George Washington"
+    },
+    {
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+        "author": "Walt Whitman"
+    },
+    {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+        "author": "William Butler Yeats"
+    },
+    {
+        "quote": "To handle yourself, use your head; to handle others, use your heart.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "If opportunity doesn’t knock, build a door.",
+        "author": "Milton Berle"
+    },
+    {
+        "quote": "I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.",
+        "author": "Jimmy Dean"
+    },
+    {
+        "quote": "You miss 100% of the shots you don’t take.",
+        "author": "Wayne Gretzky"
+    },
+    {
+        "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+        "author": "Vince Lombardi"
+    },
+    {
+        "quote": "It always seems impossible until it’s done.",
+        "author": "Nelson Mandela"
+    },
+    {
+        "quote": "Don’t watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+    },
+    {
+        "quote": "A journey of a thousand miles begins with a single step.",
+        "author": "Lao Tzu"
+    },
+    {
+        "quote": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins"
+    },
+    { "quote": "Dream big and dare to fail.", "author": "Norman Vaughan" },
+    {
+        "quote": "What we achieve inwardly will change outer reality.",
+        "author": "Plutarch"
+    },
+    {
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+    },
+    {
+        "quote": "Opportunities don’t happen. You create them.",
+        "author": "Chris Grosser"
+    },
+    {
+        "quote": "Don’t be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller"
+    },
+    {
+        "quote": "I attribute my success to this: I never gave or took any excuse.",
+        "author": "Florence Nightingale"
+    },
+    {
+        "quote": "The question isn’t who is going to let me; it’s who is going to stop me.",
+        "author": "Ayn Rand"
+    },
+    {
+        "quote": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+    },
+    {
+        "quote": "Do one thing every day that scares you.",
+        "author": "Eleanor Roosevelt"
+    },
+    { "quote": "Impossible is just an opinion.", "author": "Paulo Coelho" },
+    {
+        "quote": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West"
+    },
+    {
+        "quote": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "quote": "Don’t wish it were easier; wish you were better.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "You define your own life. Don’t let other people write your script.",
+        "author": "Oprah Winfrey"
+    },
+    {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+    },
+    {
+        "quote": "You don’t have to be great to start, but you have to start to be great.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "quote": "Don’t limit your challenges. Challenge your limits.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "It’s not whether you get knocked down, it’s whether you get up.",
+        "author": "Vince Lombardi"
+    },
+    {
+        "quote": "Setting goals is the first step in turning the invisible into the visible.",
+        "author": "Tony Robbins"
+    },
+    {
+        "quote": "Only those who dare to fail greatly can ever achieve greatly.",
+        "author": "Robert F. Kennedy"
+    },
+    {
+        "quote": "Don’t let the fear of losing be greater than the excitement of winning.",
+        "author": "Robert Kiyosaki"
+    },
+    {
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer"
+    },
+    {
+        "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "quote": "Don’t count the days, make the days count.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "quote": "Do what you feel in your heart to be right—for you’ll be criticized anyway.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "Everything you’ve ever wanted is on the other side of fear.",
+        "author": "George Addair"
+    },
+    {
+        "quote": "It is our choices that show what we truly are, far more than our abilities.",
+        "author": "J.K. Rowling"
+    },
+    {
+        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+        "author": "Jane Goodall"
+    },
+    {
+        "quote": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+        "author": "Jamie Paolinetti"
+    },
+    {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "author": "Christian D. Larson"
+    },
+    {
+        "quote": "Courage doesn’t always roar. Sometimes courage is the little voice at the end of the day that says I’ll try again tomorrow.",
+        "author": "Mary Anne Radmacher"
+    },
+    {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "quote": "Learn as if you will live forever, live like you will die tomorrow.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "quote": "We may encounter many defeats but we must not be defeated.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "Do what you can with all you have, wherever you are.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "Your life only gets better when you get better.",
+        "author": "Brian Tracy"
+    },
+    {
+        "quote": "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett"
+    },
+    {
+        "quote": "We generate fears while we sit. We overcome them by action.",
+        "author": "Dr. Henry Link"
+    },
+    {
+        "quote": "Don’t wait. The time will never be just right.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "quote": "He who has a why to live can bear almost any how.",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "The only way to achieve the impossible is to believe it is possible.",
+        "author": "Charles Kingsleigh"
+    },
+    {
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "Shoot for the moon. Even if you miss, you’ll land among the stars.",
+        "author": "Norman Vincent Peale"
+    },
+    {
+        "quote": "Hustle beats talent when talent doesn’t hustle.",
+        "author": "Ross Simmonds"
+    },
+    {
+        "quote": "If you genuinely want something, don’t wait for it—teach yourself to be impatient.",
+        "author": "Gurbaksh Chahal"
+    },
+    {
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "No matter what you’re going through, there’s a light at the end of the tunnel.",
+        "author": "Demi Lovato"
+    },
+    {
+        "quote": "Don’t let yesterday take up too much of today.",
+        "author": "Will Rogers"
+    },
+    {
+        "quote": "Everything you can imagine is real.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "The man who has confidence in himself gains the confidence of others.",
+        "author": "Hasidic Proverb"
+    },
+    {
+        "quote": "Success is getting what you want. Happiness is wanting what you get.",
+        "author": "W. P. Kinsella"
+    },
+    {
+        "quote": "Dream big dreams. Small dreams have no magic.",
+        "author": "Dottie Boreyko"
+    },
+    {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "Nothing in the world can take the place of persistence.",
+        "author": "Calvin Coolidge"
+    },
+    {
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "There are no limits to what you can accomplish, except the limits you place on your own thinking.",
+        "author": "Brian Tracy"
+    },
+    {
+        "quote": "Keep your eyes on the stars, and your feet on the ground.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "You have to be at your strongest when you’re feeling at your weakest.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+    },
+    {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+    },
+    {
+        "quote": "The best time to plant a tree was 20 years ago. The second-best time is now.",
+        "author": "Chinese Proverb"
+    },
+    {
+        "quote": "Your limitation—it’s only your imagination.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Push yourself, because no one else is going to do it for you.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Great things never come from comfort zones.",
+        "author": "Anonymous"
+    },
+    { "quote": "Dream it. Wish it. Do it.", "author": "Anonymous" },
+    {
+        "quote": "Success doesn’t just find you. You have to go out and get it.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
+        "author": "Anonymous"
+    },
+    { "quote": "Dream bigger. Do bigger.", "author": "Anonymous" },
+    {
+        "quote": "Don’t stop when you’re tired. Stop when you’re done.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Wake up with determination. Go to bed with satisfaction.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Do something today that your future self will thank you for.",
+        "author": "Anonymous"
+    },
+    { "quote": "Little things make big days.", "author": "Anonymous" },
+    {
+        "quote": "It’s going to be hard, but hard does not mean impossible.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Don’t wait for opportunity. Create it.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Sometimes we’re tested not to show our weaknesses, but to discover our strengths.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "The key to success is to focus on goals, not obstacles.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Hard work beats talent when talent doesn’t work hard.",
+        "author": "Tim Notke"
+    },
+    {
+        "quote": "Success is not the absence of failure; it’s the persistence through failure.",
+        "author": "Aisha Tyler"
+    },
+    {
+        "quote": "If you’re not willing to risk the unusual, you’ll have to settle for the ordinary.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Do what you have to do until you can do what you want to do.",
+        "author": "Oprah Winfrey"
+    },
+    {
+        "quote": "Challenges are what make life interesting, and overcoming them is what makes life meaningful.",
+        "author": "Joshua J. Marine"
+    },
+    {
+        "quote": "Success is liking yourself, liking what you do, and liking how you do it.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "Don’t let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+    },
+    {
+        "quote": "You don’t have to be perfect to be amazing.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "You can’t use up creativity. The more you use, the more you have.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "Sometimes later becomes never. Do it now.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "If you want to achieve greatness stop asking for permission.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Things work out best for those who make the best of how things work out.",
+        "author": "John Wooden"
+    },
+    {
+        "quote": "To live a creative life, we must lose our fear of being wrong.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "If you are not willing to risk the usual you will have to settle for the ordinary.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Trust because you are willing to accept the risk, not because it’s safe or certain.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Good things come to people who wait, but better things come to those who go out and get them.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "If you do what you always did, you will get what you always got.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "Just when the caterpillar thought the world was ending, he turned into a butterfly.",
+        "author": "Proverb"
+    },
+    {
+        "quote": "Successful entrepreneurs are givers and not takers of positive energy.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them.",
+        "author": "Vaibhav Shah"
+    },
+    {
+        "quote": "What’s the point of being alive if you don’t at least try to do something remarkable?",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Start where you are. Use what you have. Do what you can.",
+        "author": "Arthur Ashe"
+    },
+    {
+        "quote": "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you.",
+        "author": "Mary Kay Ash"
+    },
+    {
+        "quote": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett"
+    },
+    {
+        "quote": "Don’t wait for the right opportunity. Create it.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "I never dreamed about success. I worked for it.",
+        "author": "Estée Lauder"
+    },
+    {
+        "quote": "What seems to us as bitter trials are often blessings in disguise.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "Courage is resistance to fear, mastery of fear—not absence of fear.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "We cannot solve problems with the kind of thinking we employed when we came up with them.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "Learn as if you will live forever, live like you will die tomorrow.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "quote": "Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "It is only when we take chances that our lives improve. The initial and the most difficult risk that we need to take is to become honest.",
+        "author": "Walter Anderson"
+    },
+    {
+        "quote": "Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.",
+        "author": "Diane McLaren"
+    },
+    {
+        "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett"
+    },
+    {
+        "quote": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+        "author": "Joseph Campbell"
+    },
+    {
+        "quote": "If you don’t like something, change it. If you can’t change it, change your attitude.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "It is never too late to be what you might have been.",
+        "author": "George Eliot"
+    },
+    {
+        "quote": "Happiness often sneaks in through a door you didn’t know you left open.",
+        "author": "John Barrymore"
+    },
+    {
+        "quote": "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+        "author": "Roy T. Bennett"
+    },
+    {
+        "quote": "Work hard in silence, let your success be your noise.",
+        "author": "Frank Ocean"
+    },
+    {
+        "quote": "If you cannot do great things, do small things in a great way.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "quote": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+    },
+    {
+        "quote": "Do what you can with all you have, wherever you are.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+        "author": "Dale Carnegie"
+    },
+    {
+        "quote": "Good things come to people who wait, but better things come to those who go out and get them.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "The road to success and the road to failure are almost exactly the same.",
+        "author": "Colin R. Davis"
+    },
+    {
+        "quote": "Success is liking yourself, liking what you do, and liking how you do it.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "Be content to act, and leave the talking to others.",
+        "author": "Baltasar"
+    },
+    {
+        "quote": "Don’t wait. The time will never be just right.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "quote": "We generate fears while we sit. We overcome them by action.",
+        "author": "Dr. Henry Link"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "Do something wonderful, people may imitate it.",
+        "author": "Albert Schweitzer"
+    },
+    {
+        "quote": "If you really look closely, most overnight successes took a long time.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "Failure is the condiment that gives success its flavor.",
+        "author": "Truman Capote"
+    },
+    {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+    },
+    {
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "author": "Aristotle"
+    },
+    {
+        "quote": "To know how much there is to know is the beginning of learning to live.",
+        "author": "Dorothy West"
+    },
+    {
+        "quote": "If you don’t risk anything, you risk even more.",
+        "author": "Erica Jong"
+    },
+    {
+        "quote": "Too many of us are not living our dreams because we are living our fears.",
+        "author": "Les Brown"
+    },
+    {
+        "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison"
+    },
+    {
+        "quote": "We must let go of the life we have planned, so as to accept the one that is waiting for us.",
+        "author": "Joseph Campbell"
+    },
+    {
+        "quote": "Action may not always bring happiness; but there is no happiness without action.",
+        "author": "Benjamin Disraeli"
+    },
+    {
+        "quote": "In matters of style, swim with the current; in matters of principle, stand like a rock.",
+        "author": "Thomas Jefferson"
+    },
+    {
+        "quote": "Don’t be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller"
+    },
+    {
+        "quote": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "quote": "Opportunities don’t happen. You create them.",
+        "author": "Chris Grosser"
+    },
+    {
+        "quote": "Don’t be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller"
+    },
+    {
+        "quote": "I find that the harder I work, the more luck I seem to have.",
+        "author": "Thomas Jefferson"
+    },
+    {
+        "quote": "Try not to become a man of success, but rather become a man of value.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "Success is not the key to happiness. Happiness is the key to success.",
+        "author": "Albert Schweitzer"
+    },
+    {
+        "quote": "Success seems to be connected with action. Successful people keep moving.",
+        "author": "Conrad Hilton"
+    },
+    {
+        "quote": "In order to succeed, we must first believe that we can.",
+        "author": "Nikos Kazantzakis"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "What you do today can improve all your tomorrows.",
+        "author": "Ralph Marston"
+    },
+    {
+        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "Believe you can and you’re halfway there.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+        "author": "Og Mandino"
+    },
+    {
+        "quote": "Act as if what you do makes a difference. It does.",
+        "author": "William James"
+    },
+    {
+        "quote": "It always seems impossible until it’s done.",
+        "author": "Nelson Mandela"
+    },
+    {
+        "quote": "Don’t watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+    },
+    {
+        "quote": "A goal is a dream with a deadline.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "quote": "Everything you’ve ever wanted is on the other side of fear.",
+        "author": "George Addair"
+    },
+    {
+        "quote": "Don’t let yesterday take up too much of today.",
+        "author": "Will Rogers"
+    },
+    {
+        "quote": "You don’t have to be great to start, but you have to start to be great.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "quote": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+        "author": "William Butler Yeats"
+    },
+    {
+        "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett"
+    },
+    {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+    },
+    {
+        "quote": "The man who has confidence in himself gains the confidence of others.",
+        "author": "Hasidic Proverb"
+    },
+    {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "Your limitation—it’s only your imagination.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Push yourself, because no one else is going to do it for you.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Great things never come from comfort zones.",
+        "author": "Anonymous"
+    },
+    { "quote": "Dream it. Wish it. Do it.", "author": "Anonymous" },
+    {
+        "quote": "Success doesn’t just find you. You have to go out and get it.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
+        "author": "Anonymous"
+    },
+    { "quote": "Dream bigger. Do bigger.", "author": "Anonymous" },
+    {
+        "quote": "Don’t stop when you’re tired. Stop when you’re done.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Wake up with determination. Go to bed with satisfaction.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Do something today that your future self will thank you for.",
+        "author": "Anonymous"
+    },
+    { "quote": "Little things make big days.", "author": "Anonymous" },
+    {
+        "quote": "It’s going to be hard, but hard does not mean impossible.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Don’t wait for opportunity. Create it.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Sometimes we’re tested not to show our weaknesses, but to discover our strengths.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "The key to success is to focus on goals, not obstacles.",
+        "author": "Anonymous"
+    },
+    {
+        "quote": "Hard work beats talent when talent doesn’t work hard.",
+        "author": "Tim Notke"
+    },
+    {
+        "quote": "Success is not the absence of failure; it’s the persistence through failure.",
+        "author": "Aisha Tyler"
+    },
+    {
+        "quote": "If you’re not willing to risk the unusual, you’ll have to settle for the ordinary.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Do what you have to do until you can do what you want to do.",
+        "author": "Oprah Winfrey"
+    },
+    {
+        "quote": "Challenges are what make life interesting, and overcoming them is what makes life meaningful.",
+        "author": "Joshua J. Marine"
+    },
+    {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "quote": "If you don’t like the road you’re walking, start paving another one.",
+        "author": "Dolly Parton"
+    },
+    {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+    }
+]
