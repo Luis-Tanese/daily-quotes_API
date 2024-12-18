@@ -19,4 +19,19 @@ const fetchQuote = async () => {
     }
 };
 
-window.onload = fetchQuote;
+const toggleTheme = () => {
+    document.body.classList.toggle("dark-theme");
+    document.body.classList.toggle("light-theme");
+};
+
+window.onload = () => {
+    fetchQuote();
+    document
+        .getElementById("toggle-theme")
+        .addEventListener("click", toggleTheme);
+
+    const prefersDark = window.matchMedia(
+        "(prefers-color-scheme: dark)"
+    ).matches;
+    document.body.classList.add(prefersDark ? "dark-theme" : "light-theme");
+};

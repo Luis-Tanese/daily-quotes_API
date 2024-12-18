@@ -1,29 +1,157 @@
-body {
+* {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Arial", sans-serif;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
     height: 100vh;
     text-align: center;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 0;
+}
+
+body.light-theme {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+body.dark-theme {
+    background-color: #121212;
+    color: #ddd;
+}
+
+.top-bar {
+    width: 100%;
+    background-color: var(--top-bar-bg, #333);
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-theme .top-bar {
+    --top-bar-bg: #f4f4f4;
+    color: #333;
+}
+
+body.dark-theme .top-bar {
+    --top-bar-bg: #1e1e1e;
+    color: #ddd;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.menu-link:hover {
+    background-color: var(--menu-hover-bg, #007bff);
+    color: var(--menu-hover-text, #fff);
+}
+
+body.light-theme .menu-link:hover {
+    --menu-hover-bg: #007bff;
+    --menu-hover-text: #fff;
+}
+
+body.dark-theme .menu-link:hover {
+    --menu-hover-bg: #444;
+    --menu-hover-text: #ddd;
 }
 
 .quote-box {
-    background: #fff;
+    background-color: var(--box-bg-color, #fff);
     padding: 2rem;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    align-items: center;
     max-width: 600px;
+    transition: background-color 0.3s, box-shadow 0.3s;
+    margin-top: 20vh;
+}
+
+body.light-theme .quote-box {
+    --box-bg-color: #fff;
+}
+
+body.dark-theme .quote-box {
+    --box-bg-color: #1e1e1e;
 }
 
 .quote {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: bold;
     margin-bottom: 1rem;
+    color: inherit;
 }
 
 .author {
+    font-size: 1.2rem;
+    color: inherit;
+}
+
+.btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
     font-size: 1rem;
-    color: #555;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--button-bg-color, #007bff);
+    color: var(--button-text-color, #fff);
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-theme .btn {
+    --button-bg-color: #007bff;
+    --button-text-color: #fff;
+}
+
+body.dark-theme .btn {
+    --button-bg-color: #333;
+    --button-text-color: #ddd;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.footer {
+    margin-top: auto;
+    width: 100%;
+    text-align: center;
+    background-color: var(--footer-bg-color, #333);
+    color: var(--footer-text-color, #fff);
+    padding: 1rem;
+    font-size: 0.9rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-theme .footer {
+    --footer-bg-color: #f4f4f4;
+    --footer-text-color: #333;
+}
+
+body.dark-theme .footer {
+    --footer-bg-color: #121212;
+    --footer-text-color: #ddd;
 }

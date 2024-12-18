@@ -4,14 +4,39 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="./style.css" />
+        <link rel="stylesheet" href="./media.css" />
         <title>Daily Quote</title>
-        <style></style>
     </head>
     <body>
+        <header class="top-bar">
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <a
+                            onclick="window.open('https://github.com/Luis-Tanese/daily-quotes_API/blob/main/README.md')"
+                            class="menu-link"
+                            >API Documentation</a
+                        >
+                    </li>
+                </ul>
+            </nav>
+        </header>
         <div class="quote-box">
             <div id="quote" class="quote">Loading...</div>
-            <div id="author" class="author"></div>
+            <div id="author" class="author">Made by Tanese :3</div>
+            <button class="btn" id="toggle-theme" class="theme-button">
+                Toggle Theme
+            </button>
+            <button
+                class="btn"
+                onclick="window.open('https://github.com/Luis-Tanese/daily-quotes_API')"
+            >
+                Made by Tanese
+            </button>
         </div>
+        <footer class="footer">
+            <p>Copyright &#169; 2024 Tanese. All Rights Reserved</p>
+        </footer>
     </body>
     <script src="./script.js"></script>
 </html>
