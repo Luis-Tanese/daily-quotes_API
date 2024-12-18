@@ -1,7 +1,3 @@
-Absolutely! Here's a clean and professional **API documentation** for your app:
-
----
-
 # **Daily Quote API Documentation**
 
 The Daily Quote API allows users to fetch motivational quotes, either for a specific date or at random, with optional language translation. It includes the following endpoints:
